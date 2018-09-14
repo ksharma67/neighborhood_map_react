@@ -1,4 +1,4 @@
-# Neighborhood Map React
+# neighborhood_map_react
 A single-page web application, built using the React framework, that displays a Google Map of an area and various points of interest. Users can search all included landmarks and, when selected, additional information about a landmark is presented from the FourSquare APIs.
 
 This application follow this [Udacity Project Rubric](https://review.udacity.com/#!/rubrics/1351/view)
