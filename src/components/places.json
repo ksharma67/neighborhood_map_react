@@ -1,10 +1,10 @@
 [
   {
-                    'name': "Bhaskar Vidhya Ashram",
+                    'name': "St. Paul's Convent Sr. Sec. School",
                     'type': "Private School",
-                    'latitude': 26.9053803,
-                    'longitude': 75.7259351,
-                    'streetAddress': "Lalarpura Road, Gandhi Path"
+                    'latitude': 23.1967431,
+                    'longitude': 75.7916773,
+                    'streetAddress': "Agar Road, Makodia Aam, Bapna Park Colony"
                 },
                 {
                     'name': "Hotel Chhavi Holidays",
@@ -14,59 +14,45 @@
                     'streetAddress': "Plot No. 11/12, Vivek Vihar"
                 },
                 {
-                    'name': "Handi",
+                    'name': "SkyWay Pure Veg Rooftop Restaurant",
                     'type': "Restaurant",
-                    'latitude': 26.906990,
-                    'longitude': 75.742848,
+                    'latitude': 23.1827553,
+                    'longitude': 75.7869485,
                     'streetAddress': "18, Gautam Marg, Vaishali Nagar"
                 },
                 {
-                    'name': "INOX - Amrapali",
+                    'name': "Metro Cineplex",
                     'type': "Movie Theater",
-                    'latitude': 26.912631,
-                    'longitude': 75.743389,
-                    'streetAddress': "C-1, Vaibhav Complex"
+                    'latitude': 23.1872682,
+                    'longitude': 75.7818291,
+                    'streetAddress': "29 near kshirsaagar, Nazar Ali Marg, Malipura"
                 },
                 {
-                    'name': "Blue Dart",
-                    'type': "Courier Service",
-                    'latitude': 26.911103,
-                    'longitude': 75.738878,
-                    'streetAddress': "Vaishali Tower, Vaishali Nagar"
-                },
-                {
-                    'name': "Hotel Seven Seas",
+                    'name': "Hotel Nakshatra INN",
                     'type': "3-Star Hotel",
-                    'latitude': 26.906069,
-                    'longitude': 75.739583,
-                    'streetAddress': "A-6, Nemi Nagar, Gandhi Path"
+                    'latitude': 23.1942185,
+                    'longitude': 75.792042,
+                    'streetAddress': "154-A, Khandelwal Nagar, Near Sent Pall School"
                 },
                 {
-                    'name': "Global Heart & General Hospital",
+                    'name': "Patidar Hospital & Research Center",
                     'type': "Hospital",
-                    'latitude': 26.905506,
-                    'longitude': 75.738762,
-                    'streetAddress': "C1/27, Opposite Bharat Apartment"
+                    'latitude': 23.181222,
+                    'longitude': 75.7945193,
+                    'streetAddress': "12, Freeganj, Ghas Mandi Chouraha, Desai Nagar"
                 },
                 {
-                    'name': "Shri Swaminarayan Mandir",
+                    'name': "Sankat Mochan Siddh Hanuman Mandir",
                     'type': "Hindu Temple",
-                    'latitude': 26.902167,
-                    'longitude': 75.740999,
-                    'streetAddress': "Sector 9, Chitrakoot"
+                    'latitude': 23.1804231,
+                    'longitude': 75.7982636,
+                    'streetAddress': "Maksi Road, Ganeshpura, Desai Nagar"
                 },
                 {
-                    'name': "Pratap Marriage Garden",
-                    'type': "Banquet Hall",
-                    'latitude': 26.906464,
-                    'longitude': 75.732889,
-                    'streetAddress': "Arpit Nagar, B Block"
-                },
-                {
-                    'name': "ICICI Bank",
+                    'name': "Canara Bank",
                     'type': "Bank",
-                    'latitude': 26.913179,
-                    'longitude': 75.743447,
-                    'streetAddress': "Lalarpura Road, Gandhi Path"
+                    'latitude': 23.1805191,
+                    'longitude': 75.7930332,
+                    'streetAddress': "No.18, Betal Marg, Near Shahid Park, Freeganj, Madhav Nagar"
                 }
 ]
