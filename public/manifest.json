@@ -3,7 +3,7 @@
   "name": "Neighborhood Map - React",
   "icons": [
     {
-      "src": "favicon.png",
+      "src": "logo.png",
       "sizes": "16x16",
       "type": "image/png"
     }
